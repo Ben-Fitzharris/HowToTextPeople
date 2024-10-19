@@ -13,6 +13,6 @@ func createListener() (l net.Listener) {
 	return l
 }
 
-func parseRequest(b []byte) {
+/*func parseRequest(b []byte) {
 
-}
+}*/
